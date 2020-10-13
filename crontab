@@ -1,0 +1,2 @@
+# 1st of month 6am 
+0 6 1 * * sh /var/log/sa/genAuditAuthLog.sh
